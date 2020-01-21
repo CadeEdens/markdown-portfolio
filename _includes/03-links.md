@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com)
+[Twitch](https://www.twitch.tv/minimumpotential)
+[YouTube](http://www.youtube.com/gamingmegapixel)
+[Twitter](http://www.twitter.com/ThatBlueCharger)
