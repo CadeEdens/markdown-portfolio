@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Editing
+* Screenwriting
+* Directing
+* Movies
+  * Super 8 is my favorite
